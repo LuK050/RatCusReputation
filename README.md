@@ -9,7 +9,7 @@
   - **/dislike** _[player]_ - **снять** с игрока указанное в конфиге **config.yml** репутации _(По умолчанию **5**) (Имеет кулдаун в часах, по умолчанию **24**)_
 
 - ## Для модераторов
-  - **/repadmin** _(альтернативы: **/repa**)_ _(permission: reputation.moderator)_
+  - **/repadmin** _(альтернативы: **/repa**)_ _(permission: **reputation.moderator**)_
       - /repadmin give _[player]_ _[number/-number]_ - **добавление** указаного кол-ва очков репутации игроку
       - /repadmin set _[player]_ _[number/-number]_ - **установка** очков репутации на указаное кол-во игроку
       - /repadmin reload - перезагрузка **плагина** и **конфига**
