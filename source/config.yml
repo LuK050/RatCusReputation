@@ -1,0 +1,8 @@
+# Кулдаун команды /like и /dislike
+likeDelay: 24
+
+# Кол-во выводимых игроков в топе
+topPlayerCount: 10
+
+# Кол-во выдаваемых очков репутации в /like и /dislike
+likeCountPoints: 5

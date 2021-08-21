@@ -1,0 +1,19 @@
+name: RatCusReputation
+main: org.plugin.RatCusReputation
+author: _LuK__
+version: 1.0
+database: true
+
+commands:
+  repadmin:
+    description: Команда для модерации
+    aliases: [repa]
+  reputation:
+    description: Главная команда репутации
+    aliases: [rep]
+  like:
+    description: Команда лайка
+  dislike:
+    description: Команда дизлайка
+
+
